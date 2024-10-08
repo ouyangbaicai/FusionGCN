@@ -19,7 +19,7 @@ class ZeroOneNormalize(object):
 
 class Fusion:
     def __init__(self,
-                 modelpath='RunTimeData/best_model.ckpt',
+                 modelpath='RunTimeData/best-model.ckpt',
                  dataroot='./Datasets/Eval',    # 如果要跑其他的数据集更改此处文件夹名称
                  dataset_name='Lytro',          # If you want to run another dataset and change the folder name here
                  threshold=0.001,
