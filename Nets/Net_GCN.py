@@ -3,7 +3,7 @@ from torch import nn
 from thop import profile, clever_format
 import torch.nn.functional as F
 from Utilities.CUDA_Check import GPUorCPU
-from Nets.SLIC import SILC_Processes as img_processes
+from Nets.GCN_Encoder import SILC_Processes as img_processes
 from torch_geometric.nn import GCNConv, BatchNorm, GATConv, LayerNorm
 import time
 
