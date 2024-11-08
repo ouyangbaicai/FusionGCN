@@ -12,7 +12,7 @@ inference.py -- 利用训练好的网络参数进行图像融合（Fusion images
   
 # Reference information  
 ```  
-@article{OUYANG2025125665,
+@article{OuYangFusionGCN,
   title={FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN},  
   author={Yuncan Ouyang and Hao Zhai and Hanyue Hu and Xiaohang Li and Zhi Zeng},  
   journal={Expert Systems with Applications},  
