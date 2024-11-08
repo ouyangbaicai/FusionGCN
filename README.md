@@ -1,7 +1,7 @@
 # FusionGCN (Expert Systems With Applications, 2025)：
   
 #### 欢迎参考和引用我们的工作(Welcome to refer to and cite our work)  
-#### Code for paper “[FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN]”(https://www.sciencedirect.com/science/article/pii/S0957417424025326).  
+#### Code for paper [“FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN”](https://www.sciencedirect.com/science/article/pii/S0957417424025326).  
   
 # Delivery timeline  
 -   Received 27 July 2024;
