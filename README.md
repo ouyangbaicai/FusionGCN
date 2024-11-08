@@ -15,7 +15,7 @@
 -   Compared with existing methods, FusionGCN provides a new solution for multi-focus image fusion tasks running on devices with limited computing resources.
 -   FusionGCN has achieved good results on multiple datasets.
   
-# Reference information  
+# Reference information ※  
 ```  
 @article{Ouyang2025FusionGCN,
   title={FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN},  
@@ -34,7 +34,7 @@
 -   train.py -- 训练我们的网络(Train our network)
 -   inference.py -- 利用训练好的网络参数进行图像融合(Fusion images through network)
 
-# How to use
+# How to use ※
 -   代码提供Lytro, MFFW, MFI-WHU, GrayScale和Low-Light5个数据集进行测试
 -   The code provides five datasets for testing: Lytro, MFFW, MFI-WHU, GrayScale, and Low-Light
 -   仅需替换inference.py中的数据集名称即可一键运行
