@@ -38,7 +38,7 @@
 -   代码提供Lytro, MFFW, MFI-WHU, GrayScale和Low-Light5个数据集进行测试
 -   The code provides five datasets for testing: Lytro, MFFW, MFI-WHU, GrayScale, and Low-Light
 -   仅需替换inference.py中的数据集名称即可一键运行
--   Simply replace the dataset name in the inference to run with one click
+-   Simply replace the dataset name in the inference.py to run with one click
   
 # Results
 The output results will be stored in `./Result/(datasetname)`.
