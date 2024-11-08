@@ -5,10 +5,7 @@ Code for paper [FusionGCN: Multi-focus image fusion using superpixel features ge
 Train.py -- 训练我们的网络（Train our network）  
 inference.py -- 利用训练好的网络参数进行图像融合（Fusion images through network）
 
-# -------------------Reference information-------------------  
-如果我们的工作对您有所启发，欢迎引用以下信息。  
-If this work is helpful to you, please citing our work as follows:  
-  
+# Reference information  
 ```  
 @article{OUYANG2025125665,
   title={FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN},  
