@@ -2,9 +2,6 @@
 Code for paper [FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN](https://www.sciencedirect.com/science/article/pii/S0957417424025326).  
 欢迎参考和引用我们的工作(Welcome to refer to and cite our work)  
   
-Train.py -- 训练我们的网络（Train our network）  
-inference.py -- 利用训练好的网络参数进行图像融合（Fusion images through network）
-
 # Delivery timeline  
 -   Received 27 July 2024;
 -   Received in revised form 27 October 2024;
@@ -32,6 +29,8 @@ inference.py -- 利用训练好的网络参数进行图像融合（Fusion images
 -   python >= 3.6
 -   pytorch >= 1.5.0
 -   CUDA >= 12.0
+-   train.py -- 训练我们的网络(Train our network)
+-   inference.py -- 利用训练好的网络参数进行图像融合(Fusion images through network)
   
 # Results
 The output results will be stored in `./Result`.
