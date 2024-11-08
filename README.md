@@ -34,7 +34,7 @@
 -   inference.py -- 利用训练好的网络参数进行图像融合(Fusion images through network)
   
 # Results
-The output results will be stored in `./Result`.
+The output results will be stored in `./Result/(datasetname)`.
 
 Our results in Lytro, MFFW, MFI-WHU, GrayScale datasets can be downloaded.
   
