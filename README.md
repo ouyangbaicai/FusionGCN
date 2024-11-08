@@ -5,7 +5,7 @@ Code for paper [FusionGCN: Multi-focus image fusion using superpixel features ge
 Train.py -- 训练我们的网络（Train our network）  
 inference.py -- 利用训练好的网络参数进行图像融合（Fusion images through network）
 
-# Timeline  
+# Submission Timeline  
 -   Received 27 July 2024;
 -   Received in revised form 27 October 2024;
 -   Accepted 29 October 2024;
