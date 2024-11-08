@@ -18,7 +18,7 @@ inference.py -- 利用训练好的网络参数进行图像融合（Fusion images
   
 # Reference information  
 ```  
-@article{OuYangFusionGCN,
+@article{Ouyang2025FusionGCN,
   title={FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN},  
   author={Yuncan Ouyang and Hao Zhai and Hanyue Hu and Xiaohang Li and Zhi Zeng},  
   journal={Expert Systems with Applications},  
@@ -27,3 +27,7 @@ inference.py -- 利用训练好的网络参数进行图像融合（Fusion images
   publisher={Elsevier}  
 }
 ```
+## results
+The output results will be stored in `./result`.
+
+Our results in Lytro, Real-MFF, MFI-WHU datasets can be downloaded.
