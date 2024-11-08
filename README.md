@@ -12,7 +12,7 @@ If this work is helpful to you, please citing our work as follows:
 ```  
 @article{OUYANG2025125665,
   title={FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN},  
-  author={uncan Ouyang and Hao Zhai and Hanyue Hu and Xiaohang Li and Zhi Zeng},  
+  author={Yuncan Ouyang and Hao Zhai and Hanyue Hu and Xiaohang Li and Zhi Zeng},  
   journal={Expert Systems with Applications},  
   pages={125665},  
   year={2025},  
