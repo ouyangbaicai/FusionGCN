@@ -27,6 +27,13 @@ inference.py -- 利用训练好的网络参数进行图像融合（Fusion images
   publisher={Elsevier}  
 }
 ```
+
+# Preparation  
+## Dependencies  
+-   python >= 3.6
+-   pytorch >= 1.5.0
+-   CUDA >= 12.0.0
+  
 # Results
 The output results will be stored in `./Result`.
 
