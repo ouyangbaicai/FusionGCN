@@ -40,12 +40,12 @@
 -   仅需替换inference.py中的数据集名称即可一键运行
 -   Simply replace the dataset name in the inference.py to run with one click
   
-# Results
+# Results  
 The output results will be stored in `./Result/(datasetname)`.
 
 Our results in Lytro, MFFW, MFI-WHU, GrayScale datasets can be downloaded.
 
-# Acknowledgments  
+# Acknowledgments ※  
 以上代码在 [MFFT(EAAI, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0952197624001258) 的基础上构建而来  
 感谢他的杰出工作  
   
