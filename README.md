@@ -16,12 +16,6 @@
 -   FusionGCN has achieved good results on multiple datasets.
   
 # Reference information ※  
-```
-Ouyang Y, Zhai H, Hu H, et al. FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN[J]. Expert Systems with Applications, 2025: 125665.
-```
-  
-### Or  
-  
 ```  
 @article{Ouyang2025FusionGCN,
   title={FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN},  
@@ -31,6 +25,12 @@ Ouyang Y, Zhai H, Hu H, et al. FusionGCN: Multi-focus image fusion using superpi
   year={2025},  
   publisher={Elsevier}  
 }
+```
+  
+### Or  
+  
+```
+Ouyang Y, Zhai H, Hu H, et al. FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN[J]. Expert Systems with Applications, 2025: 125665.
 ```
   
 # Dependencies  
