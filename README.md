@@ -42,7 +42,7 @@ Ouyang Y, Zhai H, Hu H, et al. FusionGCN: Multi-focus image fusion using superpi
 
 # How to use ※
 -   代码提供Lytro, MFFW, MFI-WHU和GrayScale4个数据集进行测试
--   The code provides five datasets for testing: Lytro, MFFW, MFI-WHU and GrayScale
+-   The code provides four datasets for testing: Lytro, MFFW, MFI-WHU and GrayScale
 -   仅需替换inference.py中的数据集名称即可一键运行
 -   Simply replace the dataset name in the inference.py to run with one click
   
