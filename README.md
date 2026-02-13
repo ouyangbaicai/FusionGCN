@@ -4,6 +4,19 @@
 #### 文章发表在Expert Systems with Applications Volume 262, 1 March 2025上
 #### Code for paper [“FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN”](https://www.sciencedirect.com/science/article/pii/S0957417424025326).  
   
+# My related work related work for MFF ※
+
+<div align="center">
+
+| **Method** | **Code** | **Paper** | **Status** |
+|:----------:|:--------:|:---------:|:----------:|
+| **MSI-DTrans (2024)** | [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub"/>](https://github.com/ouyangbaicai/MSI-DTrans) | [<img src="https://img.shields.io/badge/Paper-DISPLAYS-blue?style=for-the-badge" alt="Paper"/>](https://www.sciencedirect.com/science/article/abs/pii/S0141938224002014) | ✅ Published |
+| **FusionGCN (2025)** | [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub"/>](https://github.com/ouyangbaicai/FusionGCN) | [<img src="https://img.shields.io/badge/Paper-ESWA-blue?style=for-the-badge" alt="Paper"/>](https://www.sciencedirect.com/science/article/pii/S0957417424025326) | ✅ Published |
+| **Frame-MFF (N/A)** | [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub"/>](https://github.com/ouyangbaicai/Frame-MFF) | [<img src="https://img.shields.io/badge/Preprint-Private-orange?style=for-the-badge" alt="Preprint"/>](https://github.com/ouyangbaicai/Frame-MFF) | 🙅‍ Unrevealed |
+| **Text-MFF (2026）** | [<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub"/>](https://github.com/ouyangbaicai/Text-MFF) | [<img src="https://img.shields.io/badge/Paper-ESWA-blue?style=for-the-badge" alt="Paper"/>](https://www.sciencedirect.com/science/article/abs/pii/S0957417426002824) | ✅ Published |
+
+</div>
+  
 # Delivery timeline  
 -   Received 27 July 2024;
 -   Received in revised form 27 October 2024;
