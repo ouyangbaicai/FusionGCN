@@ -4,7 +4,7 @@
 #### 文章发表在Expert Systems with Applications Volume 262, 1 March 2025上
 #### Code for paper [“FusionGCN: Multi-focus image fusion using superpixel features generation GCN and pixel-level feature reconstruction CNN”](https://www.sciencedirect.com/science/article/pii/S0957417424025326).  
   
-# My related work related work for MFF ※
+# My related work in MFF ※
 
 <div align="center">
 
