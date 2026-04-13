@@ -68,7 +68,7 @@ Our results in Lytro, MFFW, MFI-WHU, GrayScale datasets can be downloaded.
 以上代码在 [MFFT(EAAI, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0952197624001258) 的基础上构建而来  
 感谢他的杰出工作  
   
-The above code is built upon the foundation of [MFFT(EAAI, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0952197624001258)MFFT (EAAI, 2024)
+The above code is built upon the foundation of [MFFT(EAAI, 2024)](https://www.sciencedirect.com/science/article/abs/pii/S0952197624001258)
 Thank you for his outstanding work  
   
 # Contact information  
