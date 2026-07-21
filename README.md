@@ -72,4 +72,4 @@ The above code is built upon the foundation of [MFFT(EAAI, 2024)](https://www.sc
 Thank you for his outstanding work  
   
 # Contact information  
-E-mail addresses: 2023210516060@stu.cqnu.edu.cn (Y. Ouyang)
+E-mail addresses: yuncanouyang@mail.nwpu.edu.cn (Y. Ouyang)
